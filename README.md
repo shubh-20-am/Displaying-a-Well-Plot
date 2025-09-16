@@ -1,7 +1,7 @@
-# Displaying-Lithology-Data
+# Well Data Visualisation and Shale Volume Estimation
 
 ### Project Overview
-The project involved creating well plots using Matplotlib by extracting and processing well log data. The project focused on visualizing subsurface geological formations, enhancing data interpretation accuracy, and automating the generation of detailed plots for reservoir characterization.
+Developed Python-based tools for visualizing well log data, creating clear multi-track plots for Gamma Ray, Neutron Porosity, Density, and Sonic logs. Implemented interactive functionality to calculate and display shale volume (Vshale) at specific depths, enhancing petrophysical analysis.
 
 ### Data Sources
 WellData : It includes well log data of depth, gamma ray, sonic log, density log and neutron porosity.
