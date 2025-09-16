@@ -10,4 +10,6 @@ WellData : It includes well log data of depth, gamma ray, sonic log, density log
 Numpy, Pandas & Matplotlib
 
 ### Data Visualization 
+<img width="1324" height="1391" alt="fig_1" src="https://github.com/user-attachments/assets/5de4e42e-84b7-4567-a8e4-d5c1d56a2141" />
+
 ![download](https://github.com/user-attachments/assets/fe15f33a-6205-492a-8da5-ff8fdb2da582)
